@@ -1,0 +1,5 @@
+build
+cmake-*
+*.asm
+.idea
+.vscode
