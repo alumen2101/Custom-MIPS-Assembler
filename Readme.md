@@ -105,7 +105,7 @@ Each line = one **32-bit word** in **binary string format**
 
 ## GitHub Releases
 
-Pre-built executables for **Linux**, **Windows**, and **macOS** are available in the [Releases](https://github.com/yourusername/MIPS_ASSEMBLER/releases) tab.
+TBA ...
 
 ---
 
